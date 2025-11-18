@@ -1,0 +1,16 @@
+[project]
+name = "csiro"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "notebook>=7.4.7",
+    "numpy>=2.3.4",
+    "optuna>=4.6.0",
+    "pandas>=2.3.3",
+    "pytorch-lightning>=2.5.6",
+    "scikit-learn>=1.7.2",
+    "timm>=1.0.22",
+    "torch>=2.9.1",
+]
